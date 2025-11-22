@@ -1,0 +1,10 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+nc: 6
+train: C:\Users\ZhiYi\OneDrive\Desktop\ultralytics-main\datasets\cancer\train
+val: C:\Users\ZhiYi\OneDrive\Desktop\ultralytics-main\datasets\cancer\val
